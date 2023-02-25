@@ -1,1 +1,1 @@
-# recipes
+This Project is about a recipe page which is being created by the help of html basics
